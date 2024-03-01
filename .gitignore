@@ -1,0 +1,9 @@
+config.py
+test.py
+test_*.py
+.idea/
+.vscode/
+__pycache__/
+build/
+dist/
+mixin_sdk.egg-info/
